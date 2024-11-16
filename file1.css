@@ -6,4 +6,5 @@
 .abbr{
     font-style: oblique;
     color: blue;text-overflow: inherit;
+    pointer-events: stroke;
 }
