@@ -1,0 +1,9 @@
+.ul{
+    color: aquamarine;
+    text-decoration: double;
+    font-style: oblique;
+}
+.abbr{
+    font-style: oblique;
+    color: blue;text-overflow: inherit;
+}
